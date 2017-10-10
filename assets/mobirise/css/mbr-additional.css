@@ -1,0 +1,20 @@
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+
+#header2-0 H1 {
+  text-align: center;
+}
+#header2-0 P {
+  font-family: 'PT Sans', sans-serif;
+}
+#menu-a .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-a.mbr-navbar--stuck .mbr-navbar__section {
+  background: #6183e9;
+}
+#menu-a .mbr-navbar__section {
+  background: #6183e9;
+}
+#menu-a .mbr-navbar__hamburger {
+  color: #a38f84;
+}
