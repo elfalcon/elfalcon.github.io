@@ -1,20 +1,247 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
 
-#header2-0 H1 {
-  text-align: center;
-}
-#header2-0 P {
-  font-family: 'PT Sans', sans-serif;
-}
-#menu-a .mbr-brand__name {
+
+
+
+
+#menu-0 .mbr-brand__name {
   font-size: 16px;
 }
-#menu-a.mbr-navbar--stuck .mbr-navbar__section {
-  background: #6183e9;
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #132117;
 }
-#menu-a .mbr-navbar__section {
-  background: #6183e9;
+#menu-0 .mbr-brand__name a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
 }
-#menu-a .mbr-navbar__hamburger {
-  color: #a38f84;
+#menu-0 .mbr-navbar__items a {
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-0 .navbar-toggler {
+  color: #000;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #000;
+}
+#header4-1 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+}
+#header4-1 H1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+}
+#header4-1 .btn {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+#menu-6 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-6.mbr-navbar--stuck .mbr-navbar__section {
+  background: #132117;
+}
+#menu-6 .mbr-brand__name a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+}
+#menu-6 .mbr-navbar__items a {
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-6 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header1-32 H1 {
+  font-family: 'Roboto Slab', serif;
+}
+#header1-32 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#content1-15 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 20px;
+}
+#features1-18 .mbr-section-title .mbr-header__text {
+  font-family: 'Roboto Slab', serif;
+  font-size: 30px;
+}
+#features1-18 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#features1-18 .mbr-section__col .mbr-header__text {
+  font-family: 'Roboto Slab', serif;
+  font-size: 18px;
+}
+#msg-box5-19 .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+}
+#msg-box5-19 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-19 .mbr-article {
+  color: #ffffff;
+}
+#msg-box5-19 .mbr-article P {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+
+
+#menu-8 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-8.mbr-navbar--stuck .mbr-navbar__section {
+  background: #132117;
+}
+#menu-8 .mbr-brand__name a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+}
+#menu-8 .mbr-navbar__items a {
+  font-family: 'Noto Sans', sans-serif;
+}
+#header4-23 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#header4-23 H1 {
+  font-family: 'Roboto Slab', serif;
+}
+#content4-24 .mbr-section__col .mbr-header__text {
+  font-size: 72px;
+  font-family: 'Roboto Slab', serif;
+  color: #ffffff;
+}
+#content4-24 P {
+  text-align: center;
+  font-family: 'Noto Sans', sans-serif;
+  color: #ffffff;
+}
+#header3-25 H3 {
+  text-align: center;
+  font-family: 'Roboto Slab', serif;
+}
+#content1-26 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#image2-28 SMALL {
+  text-align: right;
+  font-family: 'Noto Sans', sans-serif;
+}
+#content1-29 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#social-buttons1-30 .mbr-header__text {
+  color: #000000;
+}
+#form2-31 .mbr-header__text {
+  color: #ffffff;
+}
+
+
+
+
+
+
+
+
+#menu-10 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-10.mbr-navbar--stuck .mbr-navbar__section {
+  background: #132117;
+}
+#menu-10 .mbr-brand__name a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+}
+#menu-10 .mbr-navbar__items a {
+  font-family: 'Noto Sans', sans-serif;
+}
+#menu-10 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#header4-11 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+}
+#header4-11 H1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+}
+#social-buttons2-37 .mbr-header__text {
+  font-family: 'Roboto Slab', serif;
+  color: #000000;
+}
+#content1-36 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#form1-34 .mbr-header__text {
+  font-size: 17px;
+}
+#form2-35 .mbr-header__text {
+  color: #000000;
+  font-family: 'Roboto Slab', serif;
+}
+#form2-35 .btn {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+
+
+
+
+
+
+
+#menu-12 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-12.mbr-navbar--stuck .mbr-navbar__section {
+  background: #132117;
+}
+#menu-12 .mbr-brand__name a {
+  font-family: 'Roboto Slab', serif;
+  font-size: 24px;
+}
+#menu-12 .mbr-navbar__items a {
+  font-family: 'Noto Sans', sans-serif;
+}
+#header4-13 P {
+  font-family: 'Noto Sans', sans-serif;
+  font-size: 18px;
+}
+#header4-13 H1 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 48px;
+}
+#content1-40 P {
+  font-family: 'Noto Sans', sans-serif;
+}
+#pricing-table1-39 H3 {
+  font-family: 'Roboto Slab', serif;
+}
+#pricing-table1-39 SPAN {
+  font-family: 'Roboto Slab', serif;
+}
+#pricing-table1-39 DIV {
+  font-family: 'Noto Sans', sans-serif;
 }
